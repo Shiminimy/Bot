@@ -1,0 +1,152 @@
+2025-05-12 22:46:45,482 - root - INFO - Database initialized successfully
+2025-05-12 22:46:45,489 - root - INFO - Database initialized successfully
+2025-05-12 22:46:45,489 - root - INFO - Week manager initialized successfully
+2025-05-12 22:46:45,490 - root - INFO - Handlers registered successfully
+2025-05-12 22:46:45,490 - root - INFO - Starting bot...
+2025-05-12 22:46:45,490 - aiogram.dispatcher - INFO - Start polling
+2025-05-12 22:46:46,234 - aiogram.dispatcher - INFO - Run polling for bot @Hospitalairbot id=7107311050 - 'HospitalExaminationSchedule'
+2025-05-12 22:46:55,992 - root - INFO - User 869613280 started the bot
+2025-05-12 22:46:56,015 - aiogram.event - INFO - Update id=26950997 is handled. Duration 637 ms by bot id=7107311050
+2025-05-12 22:47:42,669 - root - INFO - Database initialized successfully
+2025-05-12 22:47:42,678 - root - INFO - Database initialized successfully
+2025-05-12 22:47:42,678 - root - INFO - Week manager initialized successfully
+2025-05-12 22:47:42,679 - root - INFO - Handlers registered successfully
+2025-05-12 22:47:42,679 - root - INFO - Starting bot...
+2025-05-12 22:47:42,679 - aiogram.dispatcher - INFO - Start polling
+2025-05-12 22:47:43,230 - aiogram.dispatcher - INFO - Run polling for bot @Hospitalairbot id=7107311050 - 'HospitalExaminationSchedule'
+2025-05-12 22:47:48,258 - root - INFO - User 869613280 started the bot
+2025-05-12 22:47:48,265 - aiogram.event - INFO - Update id=26950999 is handled. Duration 917 ms by bot id=7107311050
+2025-05-12 22:47:52,221 - aiogram.event - INFO - Update id=26951000 is handled. Duration 468 ms by bot id=7107311050
+2025-05-12 22:47:55,506 - aiogram.event - INFO - Update id=26951001 is handled. Duration 216 ms by bot id=7107311050
+2025-05-12 22:47:57,000 - aiogram.event - INFO - Update id=26951002 is handled. Duration 310 ms by bot id=7107311050
+2025-05-12 22:47:58,972 - aiogram.event - INFO - Update id=26951003 is handled. Duration 374 ms by bot id=7107311050
+2025-05-12 22:48:00,746 - aiogram.event - INFO - Update id=26951004 is handled. Duration 393 ms by bot id=7107311050
+2025-05-12 22:48:02,741 - aiogram.event - INFO - Update id=26951005 is handled. Duration 631 ms by bot id=7107311050
+2025-05-12 22:48:05,437 - root - INFO - User 869613280 started the bot
+2025-05-12 22:48:05,438 - aiogram.event - INFO - Update id=26951006 is handled. Duration 169 ms by bot id=7107311050
+2025-05-12 22:48:08,303 - aiogram.event - INFO - Update id=26951007 is handled. Duration 1684 ms by bot id=7107311050
+2025-05-12 22:48:10,259 - aiogram.event - INFO - Update id=26951008 is handled. Duration 401 ms by bot id=7107311050
+2025-05-12 22:48:13,871 - aiogram.event - INFO - Update id=26951009 is handled. Duration 321 ms by bot id=7107311050
+2025-05-12 22:48:15,559 - aiogram.event - INFO - Update id=26951010 is handled. Duration 430 ms by bot id=7107311050
+2025-05-12 22:48:17,242 - aiogram.event - INFO - Update id=26951011 is handled. Duration 608 ms by bot id=7107311050
+2025-05-12 22:48:19,474 - aiogram.event - INFO - Update id=26951012 is handled. Duration 382 ms by bot id=7107311050
+2025-05-15 17:06:09,773 - root - INFO - Database initialized successfully
+2025-05-15 17:06:09,787 - root - INFO - Database initialized successfully
+2025-05-15 17:06:09,787 - root - INFO - Week manager initialized successfully
+2025-05-15 17:06:09,788 - root - INFO - Handlers registered successfully
+2025-05-15 17:06:09,788 - root - INFO - Starting bot...
+2025-05-15 17:06:09,788 - aiogram.dispatcher - INFO - Start polling
+2025-05-15 17:06:10,218 - aiogram.dispatcher - INFO - Run polling for bot @Hospitalairbot id=7107311050 - 'HospitalExaminationSchedule'
+2025-05-15 17:06:22,785 - root - INFO - User 869613280 started the bot
+2025-05-15 17:06:22,806 - aiogram.event - INFO - Update id=26951013 is handled. Duration 420 ms by bot id=7107311050
+2025-05-15 17:06:24,678 - aiogram.event - INFO - Update id=26951014 is handled. Duration 361 ms by bot id=7107311050
+2025-05-15 17:06:28,498 - aiogram.event - INFO - Update id=26951015 is handled. Duration 234 ms by bot id=7107311050
+2025-05-16 18:14:28,050 - root - INFO - Database initialized successfully
+2025-05-16 18:14:28,063 - root - INFO - Database initialized successfully
+2025-05-16 18:14:28,063 - root - INFO - Week manager initialized successfully
+2025-05-16 18:14:28,064 - root - INFO - Handlers registered successfully
+2025-05-16 18:14:28,064 - root - INFO - Starting bot...
+2025-05-16 18:14:28,064 - aiogram.dispatcher - INFO - Start polling
+2025-05-16 18:14:28,432 - aiogram.dispatcher - INFO - Run polling for bot @Hospitalairbot id=7107311050 - 'Больница'
+2025-05-16 18:14:35,439 - root - INFO - User 869613280 started the bot
+2025-05-16 18:14:35,439 - aiogram.event - INFO - Update id=26951016 is handled. Duration 600 ms by bot id=7107311050
+2025-05-16 18:15:44,006 - root - INFO - User 869613280 started the bot
+2025-05-16 18:15:44,006 - aiogram.event - INFO - Update id=26951017 is handled. Duration 192 ms by bot id=7107311050
+2025-05-16 18:15:45,408 - aiogram.event - INFO - Update id=26951018 is handled. Duration 449 ms by bot id=7107311050
+2025-05-16 18:15:58,710 - aiogram.event - INFO - Update id=26951019 is handled. Duration 755 ms by bot id=7107311050
+2025-05-16 18:16:34,566 - aiogram.event - INFO - Update id=26951020 is handled. Duration 357 ms by bot id=7107311050
+2025-05-16 18:16:55,837 - aiogram.event - INFO - Update id=26951021 is handled. Duration 339 ms by bot id=7107311050
+2025-05-16 18:16:57,528 - aiogram.event - INFO - Update id=26951022 is handled. Duration 234 ms by bot id=7107311050
+2025-05-16 18:17:19,937 - aiogram.event - INFO - Update id=26951023 is handled. Duration 824 ms by bot id=7107311050
+2025-05-16 18:17:21,897 - root - INFO - User 869613280 started the bot
+2025-05-16 18:17:21,898 - aiogram.event - INFO - Update id=26951024 is handled. Duration 180 ms by bot id=7107311050
+2025-05-16 18:17:23,847 - aiogram.event - INFO - Update id=26951025 is handled. Duration 286 ms by bot id=7107311050
+2025-05-16 18:17:36,714 - aiogram.event - INFO - Update id=26951026 is handled. Duration 746 ms by bot id=7107311050
+2025-05-16 18:17:39,412 - aiogram.event - INFO - Update id=26951027 is handled. Duration 255 ms by bot id=7107311050
+2025-05-16 18:17:41,117 - aiogram.event - INFO - Update id=26951028 is handled. Duration 267 ms by bot id=7107311050
+2025-05-16 18:18:29,101 - aiogram.event - INFO - Update id=26951029 is handled. Duration 293 ms by bot id=7107311050
+2025-05-16 18:18:39,385 - aiogram.event - INFO - Update id=26951030 is handled. Duration 240 ms by bot id=7107311050
+2025-05-16 18:18:53,224 - aiogram.event - INFO - Update id=26951031 is handled. Duration 259 ms by bot id=7107311050
+2025-05-16 18:18:54,661 - aiogram.event - INFO - Update id=26951032 is handled. Duration 258 ms by bot id=7107311050
+2025-05-16 18:18:57,494 - aiogram.event - INFO - Update id=26951033 is handled. Duration 285 ms by bot id=7107311050
+2025-05-16 18:18:58,650 - aiogram.event - INFO - Update id=26951034 is handled. Duration 268 ms by bot id=7107311050
+2025-05-16 18:21:20,473 - root - INFO - Database initialized successfully
+2025-05-16 18:21:20,478 - root - INFO - Database initialized successfully
+2025-05-16 18:21:20,478 - root - INFO - Week manager initialized successfully
+2025-05-16 18:21:20,479 - root - INFO - Handlers registered successfully
+2025-05-16 18:21:20,479 - root - INFO - Starting bot...
+2025-05-16 18:21:20,479 - aiogram.dispatcher - INFO - Start polling
+2025-05-16 18:21:20,861 - aiogram.dispatcher - INFO - Run polling for bot @Hospitalairbot id=7107311050 - 'Больница'
+2025-05-16 18:21:24,249 - root - INFO - User 869613280 started the bot
+2025-05-16 18:21:24,249 - aiogram.event - INFO - Update id=26951035 is handled. Duration 666 ms by bot id=7107311050
+2025-05-16 18:21:26,183 - aiogram.event - INFO - Update id=26951036 is handled. Duration 237 ms by bot id=7107311050
+2025-05-16 18:21:31,246 - aiogram.event - INFO - Update id=26951037 is handled. Duration 136 ms by bot id=7107311050
+2025-05-16 18:21:32,707 - aiogram.event - INFO - Update id=26951038 is handled. Duration 246 ms by bot id=7107311050
+2025-05-16 18:21:35,307 - aiogram.event - INFO - Update id=26951039 is handled. Duration 435 ms by bot id=7107311050
+2025-05-16 18:21:37,039 - aiogram.event - INFO - Update id=26951040 is handled. Duration 258 ms by bot id=7107311050
+2025-05-16 18:21:41,881 - aiogram.event - INFO - Update id=26951041 is handled. Duration 542 ms by bot id=7107311050
+2025-05-16 18:21:44,143 - root - INFO - User 869613280 started the bot
+2025-05-16 18:21:44,143 - aiogram.event - INFO - Update id=26951042 is handled. Duration 185 ms by bot id=7107311050
+2025-05-16 18:21:45,477 - aiogram.event - INFO - Update id=26951043 is handled. Duration 232 ms by bot id=7107311050
+2025-05-16 18:21:47,945 - aiogram.event - INFO - Update id=26951044 is handled. Duration 334 ms by bot id=7107311050
+2025-05-16 18:21:49,231 - aiogram.event - INFO - Update id=26951045 is handled. Duration 225 ms by bot id=7107311050
+2025-05-16 18:21:50,665 - aiogram.event - INFO - Update id=26951046 is handled. Duration 445 ms by bot id=7107311050
+2025-05-16 18:21:52,609 - aiogram.event - INFO - Update id=26951047 is handled. Duration 237 ms by bot id=7107311050
+2025-05-16 18:28:07,931 - root - INFO - Database initialized successfully
+2025-05-16 18:28:07,936 - root - INFO - Database initialized successfully
+2025-05-16 18:28:07,936 - root - INFO - Week manager initialized successfully
+2025-05-16 18:28:07,937 - root - INFO - Handlers registered successfully
+2025-05-16 18:28:07,937 - root - INFO - Starting bot...
+2025-05-16 18:28:07,937 - aiogram.dispatcher - INFO - Start polling
+2025-05-16 18:28:08,341 - aiogram.dispatcher - INFO - Run polling for bot @Hospitalairbot id=7107311050 - 'Больница'
+2025-05-16 18:29:28,241 - root - INFO - User 869613280 started the bot
+2025-05-16 18:29:28,242 - aiogram.event - INFO - Update id=26951048 is handled. Duration 572 ms by bot id=7107311050
+2025-05-16 18:29:30,349 - aiogram.event - INFO - Update id=26951049 is handled. Duration 237 ms by bot id=7107311050
+2025-05-16 18:29:37,913 - aiogram.event - INFO - Update id=26951050 is handled. Duration 398 ms by bot id=7107311050
+2025-05-16 18:29:39,580 - aiogram.event - INFO - Update id=26951051 is handled. Duration 238 ms by bot id=7107311050
+2025-05-16 18:29:41,373 - aiogram.event - INFO - Update id=26951052 is handled. Duration 235 ms by bot id=7107311050
+2025-05-16 18:29:44,394 - aiogram.event - INFO - Update id=26951053 is handled. Duration 315 ms by bot id=7107311050
+2025-05-16 18:29:47,480 - aiogram.event - INFO - Update id=26951054 is handled. Duration 328 ms by bot id=7107311050
+2025-05-16 18:30:54,364 - aiogram.event - INFO - Update id=26951055 is handled. Duration 420 ms by bot id=7107311050
+2025-05-16 18:30:55,993 - aiogram.event - INFO - Update id=26951056 is handled. Duration 609 ms by bot id=7107311050
+2025-05-16 18:30:59,188 - root - INFO - User 869613280 started the bot
+2025-05-16 18:30:59,189 - aiogram.event - INFO - Update id=26951057 is handled. Duration 145 ms by bot id=7107311050
+2025-05-16 18:31:00,633 - aiogram.event - INFO - Update id=26951058 is handled. Duration 224 ms by bot id=7107311050
+2025-05-16 18:31:24,147 - aiogram.event - INFO - Update id=26951059 is handled. Duration 347 ms by bot id=7107311050
+2025-05-16 18:31:25,575 - aiogram.event - INFO - Update id=26951060 is handled. Duration 247 ms by bot id=7107311050
+2025-05-16 18:31:36,702 - aiogram.event - INFO - Update id=26951061 is handled. Duration 253 ms by bot id=7107311050
+2025-05-16 18:32:06,551 - aiogram.event - INFO - Update id=26951062 is handled. Duration 282 ms by bot id=7107311050
+2025-05-16 18:32:07,962 - aiogram.event - INFO - Update id=26951063 is handled. Duration 433 ms by bot id=7107311050
+2025-05-16 18:32:09,849 - root - INFO - User 869613280 started the bot
+2025-05-16 18:32:09,849 - aiogram.event - INFO - Update id=26951064 is handled. Duration 259 ms by bot id=7107311050
+2025-05-16 18:32:11,380 - aiogram.event - INFO - Update id=26951065 is handled. Duration 332 ms by bot id=7107311050
+2025-05-16 18:32:17,594 - aiogram.event - INFO - Update id=26951066 is handled. Duration 360 ms by bot id=7107311050
+2025-05-16 18:32:18,871 - aiogram.event - INFO - Update id=26951067 is handled. Duration 228 ms by bot id=7107311050
+2025-05-16 18:32:23,066 - aiogram.event - INFO - Update id=26951068 is handled. Duration 251 ms by bot id=7107311050
+2025-05-16 18:32:39,723 - aiogram.event - INFO - Update id=26951069 is handled. Duration 255 ms by bot id=7107311050
+2025-05-16 18:32:40,694 - aiogram.event - INFO - Update id=26951070 is handled. Duration 321 ms by bot id=7107311050
+2025-05-16 18:33:08,659 - aiogram.event - INFO - Update id=26951071 is handled. Duration 249 ms by bot id=7107311050
+2025-05-16 18:34:21,469 - root - INFO - User 6777713221 started the bot
+2025-05-16 18:34:21,469 - aiogram.event - INFO - Update id=26951072 is handled. Duration 160 ms by bot id=7107311050
+2025-05-16 18:34:23,427 - aiogram.event - INFO - Update id=26951073 is handled. Duration 261 ms by bot id=7107311050
+2025-05-16 18:34:24,947 - aiogram.event - INFO - Update id=26951074 is handled. Duration 249 ms by bot id=7107311050
+2025-05-16 18:34:38,175 - aiogram.event - INFO - Update id=26951075 is handled. Duration 134 ms by bot id=7107311050
+2025-05-16 18:34:47,245 - aiogram.event - INFO - Update id=26951076 is handled. Duration 257 ms by bot id=7107311050
+2025-05-16 18:37:34,574 - aiogram.event - INFO - Update id=26951077 is handled. Duration 236 ms by bot id=7107311050
+2025-05-16 18:37:56,653 - aiogram.event - INFO - Update id=26951078 is handled. Duration 254 ms by bot id=7107311050
+2025-05-16 18:39:44,024 - root - INFO - User 869613280 started the bot
+2025-05-16 18:39:44,024 - aiogram.event - INFO - Update id=26951079 is handled. Duration 249 ms by bot id=7107311050
+2025-05-16 18:39:45,581 - aiogram.event - INFO - Update id=26951080 is handled. Duration 226 ms by bot id=7107311050
+2025-05-16 18:42:10,456 - root - INFO - User 6777713221 started the bot
+2025-05-16 18:42:10,456 - aiogram.event - INFO - Update id=26951081 is handled. Duration 137 ms by bot id=7107311050
+2025-05-16 18:42:11,655 - aiogram.event - INFO - Update id=26951082 is handled. Duration 223 ms by bot id=7107311050
+2025-05-16 18:42:18,188 - aiogram.event - INFO - Update id=26951083 is handled. Duration 151 ms by bot id=7107311050
+2025-05-16 18:42:31,199 - aiogram.event - INFO - Update id=26951084 is handled. Duration 262 ms by bot id=7107311050
+2025-05-16 18:42:33,214 - aiogram.event - INFO - Update id=26951085 is handled. Duration 127 ms by bot id=7107311050
+2025-05-16 18:42:40,689 - root - INFO - User 6777713221 started the bot
+2025-05-16 18:42:40,690 - aiogram.event - INFO - Update id=26951086 is handled. Duration 196 ms by bot id=7107311050
+2025-05-16 18:42:44,791 - aiogram.event - INFO - Update id=26951087 is handled. Duration 342 ms by bot id=7107311050
+2025-05-16 18:42:50,769 - aiogram.event - INFO - Update id=26951088 is handled. Duration 142 ms by bot id=7107311050
+2025-05-16 18:43:07,420 - aiogram.event - INFO - Update id=26951089 is handled. Duration 257 ms by bot id=7107311050
+2025-05-16 18:44:21,576 - aiogram.event - INFO - Update id=26951090 is handled. Duration 481 ms by bot id=7107311050
+2025-05-16 18:44:31,262 - aiogram.event - INFO - Update id=26951091 is handled. Duration 275 ms by bot id=7107311050
